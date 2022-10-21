@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samet Buzcu</h1>
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
 
+- 🌱 I’m currently learning **React**
+
 - 📫 How to reach me **buzcu_7@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
