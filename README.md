@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samet Buzcu</h1>
-<h3 align="center">A passionate Frontend Developer from Turkey</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 - 📫 How to reach me **sametbuzcu@outlook.com**
 
