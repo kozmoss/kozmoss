@@ -23,7 +23,7 @@
 ## 💫 About Me
 ```javascript
 const samet = {
-  title: "Senior Frontend & iOS Developer",
+  title: "Frontend & iOS Developer",
   location: "Turkey",
   focusAreas: [
     "Building performant React & Next.js applications",
@@ -71,47 +71,6 @@ const samet = {
   </tr>
 </table>
 
-## 💼 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">E-Commerce Platform</h3>
-      <div align="center">
-        <img src="https://dummyimage.com/400x200/6b57f7/ffffff&text=E-Commerce+Platform" width="100%" alt="E-Commerce Platform"/>
-        <br>
-        <br>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-          </a>  
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-10b981?style=for-the-badge&logo=web&logoColor=white" alt="Live Demo"/>
-          </a>
-        </p>
-        <p><strong>React, Next.js, Redux, Tailwind CSS</strong> - Fully responsive e-commerce application with server-side rendering, optimized performance, and seamless user experience.</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">iOS Fitness Tracker</h3>
-      <div align="center">
-        <img src="https://dummyimage.com/400x200/4f46e5/ffffff&text=iOS+Fitness+App" width="100%" alt="iOS Fitness App"/>
-        <br>
-        <br>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Code-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/AppStore-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/>
-          </a>
-        </p>
-        <p><strong>Swift, UIKit, Core Data, HealthKit</strong> - Comprehensive fitness tracking application with personalized workouts, progress tracking, and health analytics.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -141,12 +100,3 @@ const samet = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kozmoss&theme=tokyonight" alt="Contribution Graph" width="100%" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kozmoss&theme=nord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
-</div>
