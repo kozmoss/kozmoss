@@ -15,7 +15,7 @@
   <a href="mailto:sametbuzcu@outlook.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
-  <a href="https://github.com/sametbuzcu">
+  <a href="https://github.com/kozmoss">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
