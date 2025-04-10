@@ -81,10 +81,6 @@ const samet = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kozmoss&theme=tokyonight&layout=compact&hide_border=true" alt="kozmoss's Most Used Languages" />
 </div>
 
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kozmoss&theme=tokyonight&hide_border=true" alt="kozmoss's GitHub Streak" />
-</div>
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
