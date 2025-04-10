@@ -5,7 +5,7 @@
 <h3 align="center"> Frontend & iOS Developer | Turkey 🇹🇷</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6833F7&center=true&vCenter=true&random=false&width=500&lines=7%2B+Years+of+Development+Experience;Frontend+and+iOS+Development+Expert;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6833F7&center=true&vCenter=true&random=false&width=500&lines=Frontend+and+iOS+Development+Expert;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ## 💫 About Me
 ```javascript
 const samet = {
-  title: "Frontend & iOS Developer",
+  title: "Senior Frontend & iOS Developer",
   location: "Turkey",
   focusAreas: [
     "Building performant React & Next.js applications",
@@ -116,27 +116,15 @@ const samet = {
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sametbuzcu.vercel.app/api?username=sametbuzcu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sametbuzcu.vercel.app/api?username=sametbuzcu&theme=default&show_icons=true&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-sametbuzcu.vercel.app/api?username=sametbuzcu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="sametbuzcu's GitHub Stats" />
-  </picture>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kozmoss&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="kozmoss's GitHub Stats" />
+  
   <!-- Most Used Languages Card -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sametbuzcu.vercel.app/api/top-langs/?username=sametbuzcu&theme=tokyonight&layout=compact&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sametbuzcu.vercel.app/api/top-langs/?username=sametbuzcu&theme=default&layout=compact&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats-sametbuzcu.vercel.app/api/top-langs/?username=sametbuzcu&theme=tokyonight&layout=compact&hide_border=true" alt="sametbuzcu's Most Used Languages" />
-  </picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kozmoss&theme=tokyonight&layout=compact&hide_border=true" alt="kozmoss's Most Used Languages" />
 </div>
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sametbuzcu&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sametbuzcu&theme=default&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sametbuzcu&theme=tokyonight&hide_border=true" alt="sametbuzcu's GitHub Streak" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kozmoss&theme=tokyonight&hide_border=true" alt="kozmoss's GitHub Streak" />
 </div>
 
 ## 📝 Latest Blog Posts
@@ -150,21 +138,13 @@ const samet = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sametbuzcu&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sametbuzcu&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sametbuzcu&theme=tokyonight" alt="Contribution Graph" width="100%" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kozmoss&theme=tokyonight" alt="Contribution Graph" width="100%" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=sametbuzcu&theme=nord&no-frame=true&no-bg=false&margin-w=4" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=sametbuzcu&theme=flat&no-frame=true&no-bg=false&margin-w=4" />
-    <img src="https://github-profile-trophy.vercel.app/?username=sametbuzcu&theme=nord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=kozmoss&theme=nord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" />
 </div>
 
 <div align="center">
