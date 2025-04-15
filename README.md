@@ -84,10 +84,7 @@ const samet = {
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing React Applications for Performance](https://example.com)
-- [Advanced Swift Techniques for iOS Developers](https://example.com)
-- [Building Accessible Web Applications](https://example.com)
-- [State Management Patterns in Modern React](https://example.com)
+- [Hello Cube](https://medium.com/@kozmoss/hello-cube-webin-%C3%BC%C3%A7%C3%BCnc%C3%BC-boyutu-three-js-ve-next-js-ile-react-three-fiber-ve-drei-kullan%C4%B1m%C4%B1-d64b0764bca9)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Contribution Graph
