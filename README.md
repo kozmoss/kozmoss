@@ -39,8 +39,7 @@ const samet = {
     tools: ["Git", "Webpack", "Vite", "CI/CD", "Docker"],
     design: ["Figma", "Sketch", "Adobe XD"]
   },
-  currentLearning: ["Web3", "AWS", "React Native", "Node.js"],
-  funFact: "When not coding, I enjoy hiking and playing chess"
+  currentLearning: ["Web3", "AWS", "Microservices", "Node.js"],
 };
 ```
 
