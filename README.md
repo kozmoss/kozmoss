@@ -5,7 +5,7 @@
 <h3 align="center"> Fullstack & iOS Developer | Turkey 🇹🇷</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6833F7&center=true&vCenter=true&random=false&width=500&lines=Frontend+and+iOS+Development+Expert;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6833F7&center=true&vCenter=true&random=false&width=500&lines=Fullstack+and+iOS+Development+Expert;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -34,18 +34,16 @@ const samet = {
     "Optimizing applications for maximum performance"
   ],
   technicalSkills: {
-    backend: ["Node.js", "Express.js", "NestJS", "TypeScript", "JavaScript"],
-    frontend: ["React", "Next.js", "Redux", "TypeScript", "JavaScript"],
-    styling: ["Tailwind CSS", "SASS/SCSS", "Styled Components", "CSS Modules"],
-    database: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    backend: ["Node.js", "Express.js", "NestJS"],
+    frontend: ["React", "Next.js"],
+    styling: ["Tailwind CSS", "SASS/SCSS", "Styled Components", "CSS Modules", "Shadcn],
+    database: ["MongoDB", "PostgreSQL", "Redis"],
     mobile: ["iOS", "Swift", "SwiftUI", "UIKit"],
     testing: ["Jest", "Supertest", "React Testing Library", "XCTest"],
-    tools: ["Git", "Docker", "CI/CD", "Webpack", "Vite"],
-    cloud: ["AWS", "Digital Ocean", "Vercel", "Netlify"],
-    apis: ["REST", "GraphQL", "WebSocket", "gRPC"]
+    tools: ["Git", "Docker", "CI/CD", "Webpack"],
+    cloud: ["Vercel", "Netlify"],
+    apis: ["REST", "GraphQL", "WebSocket"]
   },
-  currentLearning: ["Microservices", "Kubernetes", "Web3", "System Design"],
-  databases: ["MongoDB", "PostgreSQL", "Redis"],
   architecture: ["RESTful APIs", "Microservices", "Clean Architecture"]
 };
 ```
@@ -106,7 +104,10 @@ const samet = {
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Next.js ile Web Geliştirme: SSR, RSC ve Server Actions Genel Bakış](https://medium.com/@kozmoss/server-actions-ssr-rsc-4878ce62eba9)
+- [“Prompt!” Abartı mı, Hakikat mi? Yapay Zekâyla Konuşmayı Öğrenmek.](https://medium.com/@kozmoss/prompt-abart%C4%B1-m%C4%B1-hakikat-mi-yapay-zek%C3%A2yla-konu%C5%9Fmay%C4%B1-%C3%B6%C4%9Frenmek-c28d0190525a)
 - [Hello Cube](https://medium.com/@kozmoss/hello-cube-webin-%C3%BC%C3%A7%C3%BCnc%C3%BC-boyutu-three-js-ve-next-js-ile-react-three-fiber-ve-drei-kullan%C4%B1m%C4%B1-d64b0764bca9)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Contribution Graph
