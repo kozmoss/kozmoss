@@ -36,7 +36,7 @@ const samet = {
   technicalSkills: {
     backend: ["Node.js", "Express.js", "NestJS"],
     frontend: ["React", "Next.js"],
-    styling: ["Tailwind CSS", "SASS/SCSS", "Styled Components", "CSS Modules", "Shadcn],
+    styling: ["Tailwind CSS", "SASS/SCSS", "Styled Components", "CSS Modules", "Shadcn"],
     database: ["MongoDB", "PostgreSQL", "Redis"],
     mobile: ["iOS", "Swift", "SwiftUI", "UIKit"],
     testing: ["Jest", "Supertest", "React Testing Library", "XCTest"],
